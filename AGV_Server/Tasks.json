@@ -1,0 +1,30 @@
+{
+  "testing": {
+    "steps": [
+      {
+        "mode": 2,
+        "delay": 3
+      },
+      {
+        "mode": 1,
+        "delay": 3
+      },
+      {
+        "mode": 3,
+        "delay": 3
+      },
+      {
+        "mode": 4,
+        "delay": 3
+      },
+      {
+        "mode": 5,
+        "delay": 3
+      },
+      {
+        "mode": 3,
+        "delay": 3
+      }
+    ]
+  }
+}

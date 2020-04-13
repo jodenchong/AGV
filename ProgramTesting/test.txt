@@ -1,0 +1,7 @@
+/home/pi/pio/projects/ProgramTesting/
+ttyUSB0
+/home/pi/pio/projects/ProgramTesting/
+/home/pi/pio/projects/ProgramTesting/
+projects/dev/ttyUSB0
+/home/pi/pio/projects/ProgramTesting/
+1234/dev/ttyUSB0
